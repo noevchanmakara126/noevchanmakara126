@@ -1,83 +1,89 @@
-# 👋 Hi there, I'm Noev Chanmakara (MJ)
-
-🚀 **Passionate Developer | UI/UX Designer | Content Creator**
-
-I'm a Computer Science student at **Royal University of Phnom Penh (RUPP)** and a graduate of **CSTAD Foundation 2nd Generation**.  
-I’ve also trained at **Institute of Science and Technology Advanced Development (ISTAD)** and **Korea Software HRD Center (KSHRD)**, where I strengthened my skills in programming, software development, and real-world project implementation.  
-
-I’m passionate about building real-world applications and exploring new technologies that make people’s lives easier.  
+<h1 align="center">Hi 👋, I'm Noev Chanmakara (MJ)</h1>
+<h3 align="center">Full-Stack Developer | DevOps Engineer | Passionate about building impactful systems</h3>
 
 ---
 
-## 🧠 About Me
-- 💻 I love turning ideas into real applications — from frontend to backend.
-- 🎨 I enjoy creating clean, user-friendly interfaces using **Figma**, **React**, and **Tailwind CSS**.
-- 🧩 Currently learning more about **Spring Boot**, **Next.js**, and **TypeScript**.
-- 🎥 Outside coding, I create tech content and videos using **Premiere Pro**, **Photoshop**, and **CapCut**.
-- 💡 My goal is to become a full-stack app developer and contribute to innovative tech solutions.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`C` | `C++` | `C#` | `Java` | `JavaScript` | `TypeScript` | `HTML` | `CSS`
-
-### ⚙️ Frameworks & Libraries
-`React.js` | `Next.js` | `Tailwind CSS` | `Bootstrap` | `Spring Boot` | `Laravel`
-
-### 🧰 Tools & Platforms
-`Git` | `GitHub` | `VS Code` | `IntelliJ IDEA` | `Figma` | `Postman` | `Arduino`
-
----
-
-## 🌟 Featured Projects
-🔹 **🎓 University Finder** — A website helping students easily find universities with their favorite majors.  
-🔹 **🚗 Smart Parking System** — Real-time parking system with Arduino sensors and web integration.  
-🔹 **💬 Confession Website** — Anonymous submission app with image upload and admin dashboard.  
-🔹 **🎭 Hall Booking System (Java)** — Seat reservation, showtime scheduling, and booking management.
-
-> Check out more of my projects below 👇  
-
----
-
-## 📊 GitHub Stats
-![MJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noevchanmakara126&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noevchanmakara126&layout=compact&theme=tokyonight)
-
----
-
-## 🏫 Education & Training
-🎓 **Royal University of Phnom Penh (RUPP)** — *Bachelor’s in Computer Science*  
-🎓 **Institute of Science and Technology Advanced Development (ISTAD)** — *Software Development Training*  
-🎓 **Korea Software HRD Center (KSHRD)** — *Advanced Programming & Project-Based Training*  
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:jrmakara97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://facebook.com/noevchanmakara" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/noev-chanmakara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.youtube.com/@noevchanmakara" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.facebook.com/noev.chanmakara.126" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/makarajr.official" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@makarajr" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.tiktok.com/@makarajr" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <a href="https://www.instagram.com/noevchanmakara" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-⭐ *“Technology is not just my field — it’s my passion and purpose.”*  
-Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi 👋  
+### 👨‍💻 About Me
+- 💡 I’m passionate about **software architecture, DevOps pipelines, and scalable web systems**
+- 🎓 Graduated from **Center of Science and Technology Advanced Development (CSTAD / ISTAD)**  
+  and **Korea Software HRD Center (KSHRD)**
+- 💻 Specialized in **Full-Stack Development** and **DevOps Engineering**
+- 🌱 Currently exploring **Microservices, Kubernetes, and Cloud Automation**
+- 🚀 Always eager to collaborate on exciting projects that push innovation forward
+
+---
+
+### ⚙️ Tech Stack
+
+#### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+#### 🧠 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShellScript-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoC-%2300599C.svg?style=for-the-badge&logo=dependabot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CoC-%23FF6F00.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### 🏫 School Management System  
+- Built a **real-time platform** for school management using **WebSocket**  
+- Includes features like **messaging**, **video calls**, and **student management dashboard**  
+- Tech Stack: `Spring Boot`, `Next.js`, `WebSocket`, `PostgreSQL`, `Docker`
+
+#### ⚙️ CI/CD Automation Platform  
+- Developed an **automated web system** to help developers **simplify CI/CD** for their projects  
+- Integrated with **Jenkins**, **ArgoCD**, and **Kubernetes**  
+- Tech Stack: `React`, `Spring Boot`, `Jenkins`, `ArgoCD`, `Docker`, `Kubernetes`
+### 🎓 University Finder
+- A website helping students easily find universities with their favorite majors.
+### 🚗 Smart Parking System (Project for RUPP)
+— Real-time parking system with Arduino sensors and web integration.  
+---
+
+### 📫 Contact
+📧 **Email:** jrmakara97@gmail.com  
+🌍 **Location:** Phnom Penh, Cambodia  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noevchanmakara126&show_icons=true&theme=radical" alt="MJ's GitHub stats" />
+</p>
